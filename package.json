@@ -1,0 +1,23 @@
+{
+  "name": "com.tglgames.tgl-tutorial-manager",
+  "version": "1.0.0",
+  "displayName": "TGL Tutorial Manager",
+  "description": "This is an Tutorial Manager package, use it to create tutorials in game",
+  "author": {
+    "name" : "Rishabh Jain",
+    "email" : "thegamelearner@gmail.com",
+    "url" : "https://tglblog.vercel.app/"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@tglGames-Plugins" },
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "https://opensource.org/license/apache-2-0",
+  "dependencies": { },
+  "keywords": [
+    "Tutorial Handler",
+    "TGL"
+  ]
+}
+
