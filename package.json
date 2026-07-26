@@ -1,6 +1,6 @@
 {
   "name": "com.tglgames.tgl-tutorial-manager",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "displayName": "TGL Tutorial Manager",
   "description": "This is an Tutorial Manager package, use it to create tutorials in game",
   "author": {
@@ -20,4 +20,3 @@
     "TGL"
   ]
 }
-
