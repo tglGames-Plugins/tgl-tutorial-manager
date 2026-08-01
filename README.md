@@ -24,9 +24,4 @@ To use this plugin, follow these steps:
 Samples can be found in "Samples" folder. There is a scene with the test setup.
 
 ## How to add this package?
-- Open unity package manaegr
-- On top right, there is a button to add a package
-- add a git package (from git URL)
-- fill the Https link for the package, in this case, 'https://github.com/tglGames-Plugins/xxx'
-- Add
-The package will be added under 'TGL Tutorial Manager' in packages, use as needed.
+See [How to add this package](HowToAddPackage.md) for detailed instructions.

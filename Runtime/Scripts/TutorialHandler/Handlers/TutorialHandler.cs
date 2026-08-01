@@ -517,6 +517,10 @@ namespace tglGames.tutorial_manager.tgl_tutorial_handler
             {
                 blockerImage.gameObject.SetActive(!hide);
             }
+            else
+            {
+                Debug.LogError($"No Tutorial data was actuve, is this a mistake?");
+            }
         }
 
         #endregion HideTutorial
